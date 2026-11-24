@@ -1,7 +1,15 @@
 public class WelcomeToJava {
     public static void main(String[] args) {
-        System.out.println("Welcom to java track");
-        System.out.println("i already know how to build programming logic.");
-        System.out.println("now i am learing how to express that logic");
+        String StudentName = "Rahul";
+        int Age = 22;
+        int collegeCode = 1200;
+        int StudentId = 101;
+        double MobileNumber = 9843878507d;
+        float percentage = 85.5f;
+        float AnnualFees = 125000.5f;
+        char grade = 'A';
+        boolean placement = true;
+        System.out.println("student information:");
+
     }
 }
